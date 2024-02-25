@@ -1,0 +1,20 @@
+.title_container{
+    color: white;
+    background-color: #D20292;
+}
+
+.title_container > h1 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 98px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    background: #a3098f;
+}
+
+.title_container > hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+   
+}

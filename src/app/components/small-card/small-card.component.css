@@ -1,0 +1,27 @@
+.container-small {
+    width: 800px;
+    margin-bottom: 17px;
+}
+
+.photo-small > img{
+    width: 260px;
+    height: 110px;
+    min-width: 300;
+    margin-right: 40;
+}
+
+.title-small {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.small-content {
+display: flex;
+flex-direction: row;
+
+}
+
+.small-separador{
+    margin-top: 12px;
+}
