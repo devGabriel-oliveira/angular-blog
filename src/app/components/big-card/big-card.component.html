@@ -11,14 +11,14 @@
 
     <div class="title">
 
-    <h1><a href="#">{{ cardTitle }}</a></h1>
+    <h1><a [routerLink]="['conteudo', Id]">{{ cardTitle }}</a></h1>
         
     </div>
 
 
     <div class="description">
 
-        <a href="#"><p>{{cardDescription}}</p></a>
+        <a [routerLink]="['conteudo', Id]"><p>{{cardDescription}}</p></a>
 
     </div>
 

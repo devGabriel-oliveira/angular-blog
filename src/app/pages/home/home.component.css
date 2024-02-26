@@ -5,9 +5,3 @@
     justify-content: center;
 }
 
-header {
-    border: 1px solid rgb(65, 17, 45);
-    display: flex;
-    justify-content: center;
-    margin-top: 18px;
-}
